@@ -9,21 +9,25 @@ You will analyze and visualize forum page view data from May 2016 to December 20
 ### 1. Line Plot
 - **File:** `line_plot.png`
 - **Description:** Shows the daily freeCodeCamp forum page views over time, highlighting trends and outliers.
+- **Example:**
+  
+  ![Line Plot](line_plot.png)
 
 ### 2. Bar Plot
 - **File:** `bar_plot.png`
 - **Description:** Displays the average daily page views for each month, grouped by year. This helps compare monthly averages across years.
+- **Example:**
+  
+  ![Bar Plot](bar_plot.png)
 
 ### 3. Box Plots
 - **File:** `box_plot.png`
 - **Description:** Contains two adjacent box plots:
   - **Year-wise Box Plot (Trend):** Shows the distribution of page views for each year, revealing trends and outliers.
   - **Month-wise Box Plot (Seasonality):** Shows the distribution of page views for each month (across all years), highlighting seasonal patterns.
-
-Example output images can be found in the `examples/` directory:
-- `examples/Figure_1.png` (Line Plot)
-- `examples/Figure_2.png` (Bar Plot)
-- `examples/Figure_3.png` (Box Plots)
+- **Example:**
+  
+  ![Box Plots](box_plot.png)
 
 ## Requirements
 - Python 3.x
